@@ -1,0 +1,36 @@
+title: The Kernel Krypt
+description: Cybersecurity News | Malware Analysis | Ethical Hacking Guides
+baseurl: "/the-kernel-krypt" # change if you use a custom domain or different path
+url: "https://yourusername.github.io" # change to your GitHub Pages URL
+theme: none
+markdown: kramdown
+paginate: 5
+plugins: []
+collections: {}
+
+
+# Site navigation (used by sidebar)
+navigation:
+- title: Home
+url: /
+- title: News
+url: /categories/news/
+- title: Malware
+url: /categories/malware/
+- title: Tutorials
+url: /categories/tutorials/
+- title: Tools
+url: /categories/tools/
+- title: About
+url: /about/
+
+
+# Author / social
+author:
+name: "Dilware (The Kernel Krypt)"
+email: "dilwarealam@hotmail.com"
+
+
+social:
+twitter: "@yourhandle"
+github: "yourusername"
